@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-070-adame Adame Tile (Wave 15 2026-10-01 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 15 files: see builds/_assets_dl/wave15/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave15/tile-float-hand.jpg : Hand working a float across newly set floor tile; hand only, no face (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Applying_grout.jpg)
+services-trade.jpg <- wave15/tile-corner-new.jpg : Finished tiled corner, floor to ceiling (rawpixel CC0 1.0 https://www.rawpixel.com/image/5941255/free-public-domain-cc0-photo)
+people-crew.jpg <- wave15/tile-wall-bright.jpg : Bright tiled wall with even joints (rawpixel CC0 1.0 https://www.rawpixel.com/image/431838/free-photo-image-orang-pattern-tiles)
+people-marek.jpg <- wave15/tile-floor-white.jpg : Large white floor tiles, close-up (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:White_floor_tile_in_Clinic.jpg)
+people-tom.jpg <- wave15/tile-wall-new.jpg : Newly tiled walls with built-in niches (rawpixel CC0 1.0 https://www.rawpixel.com/image/6019082/photo-image-public-domain-house-room)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+tile-floor-broken.jpg <- wave15/tile-floor-broken.jpg : Broken floor tile with debris and weeds coming through (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/100818627@N02/28260654574)
+tile-floor-new.jpg <- wave15/tile-floor-new.jpg : Newly tiled floor in a wide hallway (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=145727873)
+tile-room-old.jpg <- wave15/tile-room-old.jpg : Older tiled room, dated and worn, before new tile (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=48581437)
+tile-room-finished.jpg <- wave15/tile-room-finished.jpg : Finished tile work in a small room, floor to ceiling (rawpixel CC0 1.0 https://www.rawpixel.com/image/6050595/free-public-domain-cc0-photo)
+tile-room-vintage.jpg <- wave15/tile-room-vintage.jpg : Old tiled room with a worn floor, before new tile (wordpress CC0 1.0 https://wordpress.org/photos/photo/90461e1cbd/)
+tile-floor-checked.jpg <- wave15/tile-floor-checked.jpg : Room with a new checked-pattern tile floor (rawpixel CC0 1.0 https://www.rawpixel.com/image/5961008/free-public-domain-cc0-photo)
+
+Note: New trade (tile): wave15 set, checked by md5, perceptual hash, and source page against the hs-009 FRG tile set and the wave13/wave14 flooring sets; no photo is shared (one candidate was dropped as a near-duplicate of the FRG services photo). Services come from the packet trade class only, so the page says tile installation and names no tile materials, rooms, or specialties. CEO call: no personal name anywhere, only the business wordmark and 'the owner'. The packet's no-DNS adame names are NOT used or linked; domain ideas avoid those strings. Unrelated similar-name tile businesses elsewhere are not named.
